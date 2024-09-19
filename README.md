@@ -19,3 +19,11 @@ Este é um projeto de um jogo de xadrez desenvolvido para ser executado no conso
 ![alt text](pictures/destino.png)
 ![alt text](pictures/origem.png)
 ![alt text](pictures/erro.png)
+
+## Como Executar
+
+1. Clone o repositório
+
+2. Abra a solução `C%23-challenges.sln` na sua IDE
+
+3. Selecione o projeto desejado e execute-o.
